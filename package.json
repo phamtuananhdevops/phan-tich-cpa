@@ -1,0 +1,9 @@
+{
+  "name": "phan-tich-cpa",
+  "private": true,
+  "version": "1.0.0",
+  "description": "Phan tich CPA 2026 — CPA study site with anonymous question logging",
+  "dependencies": {
+    "@vercel/blob": "^2.8.2"
+  }
+}
