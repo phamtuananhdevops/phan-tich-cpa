@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://phan-tich-cpa.vercel.app/sitemap.xml
